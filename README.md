@@ -13,10 +13,11 @@ I'm Shashank from Bengaluru, and I do content on Design and Development. I reall
 * 💻 HTML, CSS, JS
 
 ## How to reach me
+
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/shashank-anakal/" target="_blank"><img src="https://img.shields.io/badge/-?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/shashank.4705/" target="_blank"><img src="https://img.shields.io/badge/-?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="www.youtube.com/@shashank.4705" target="_blank"><img src="https://img.shields.io/badge/-?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/shashank-anakal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/shashank.4705/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="www.youtube.com/@shashank.4705" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
 </div>
 
 ## Examples of Work

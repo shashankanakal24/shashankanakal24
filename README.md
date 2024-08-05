@@ -25,7 +25,7 @@ I'm Shashank from Bengaluru, and I do content on Design and Development. I reall
 ## Examples of Work
 <a href="https://www.youtube.com/watch?v=qxkl5bzIaqo" target="_blank"><img src="https://img.youtube.com/vi/qxkl5bzIaqo/0.jpg" 
 alt="Project Demonstration" width="240" height="180" border="10" /></a>
-<br>
+ &nbsp; 
 <a href="https://youtu.be/xcer2nJHuME?si=M9xLOwjwamzd4cL2" target="_blank">
     <img src="https://img.youtube.com/vi/xcer2nJHuME/0.jpg" 
          alt="Project Demonstration" width="240" height="180" border="10" />

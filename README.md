@@ -3,9 +3,8 @@ I'm Shashank from Bengaluru, and I do content on Design and Development. I reall
 
 🌱 I’m currently learning Computer Science Engineering
 
-## Skills and Experience
+## Skills 
 * 🌐 Django
-* 📊 Streamlit
 * 🐍 Python
 * ☕ Java
 * 🛢️ MySQL

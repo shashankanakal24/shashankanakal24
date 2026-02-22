@@ -1,15 +1,34 @@
 # Shashank Anakal
-I'm Shashank from Bengaluru, and I do content on Design and Development. I really enjoy learning languages and frameworks like Django, as well as working with Python and Java. I also enjoy deployment, UI, UX, and design in general.
 
-🌱 I’m currently learning Computer Science Engineering
+Full-Stack Developer focused on building scalable applications using modern technologies.
 
-## Skills 
-* 🌐 Django
-* 🐍 Python
-* ☕ Java
-* 🛢️ MySQL
-* 🗃️ SQLite
-* 💻 HTML, CSS, JS
+I specialize in backend development with Java and the Spring ecosystem, along with responsive frontend development using React. I enjoy designing clean architectures, working with databases, and deploying containerized applications.
+
+## Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Microservices Architecture
+
+**Frontend**
+- React
+- HTML, CSS, JavaScript
+
+**Databases**
+- MySQL
+- MongoDB
+
+**DevOps & Tools**
+- Docker
+- Linux
+- Git & GitHub
+- REST APIs
+
+**Languages**
+- Python
 
 ## How to reach me
 
